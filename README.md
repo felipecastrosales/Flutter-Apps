@@ -18,13 +18,15 @@
 
 <h2 align="center">Previews de Aplicativos 📱</h2>
 
-   > * Em breve
+   > * Alguns ainda estão em desenvolvimento!
 
 <h2 align="center">
     <a href="https://github.com/felipecastrosales/YouFlutterTube">Favoritos do YouTube (BLoC Pattern) 🌟</a>
 </h2>
 <p align="center">
-   <img src="" width="250px" alt="Favoritos do YouTube (BLoC Pattern)">
+   
+   > * Em desenvolvimento!
+   
 </p>
 
 ---
@@ -33,7 +35,7 @@
     <a href="https://github.com/felipecastrosales/Flare-Test">Animações Vetoriais com Flare 😀</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Flare-Test/raw/master/demo/Flare_Demo.gif" width="250px" alt="Animações Vetoriais com Flare ">
+   <img src="https://github.com/felipecastrosales/Flare-Test/raw/master/demo/Flare_Demo.gif" width="300px" alt="Animações Vetoriais com Flare ">
 </p>
 
 ---
@@ -43,7 +45,8 @@
 </h2>
 <p align="center">
 
-   <img src="" width="250px" alt="Loja Virtual 🛒">
+> * Em desenvolvimento!
+  
 </p>
 
 ---
@@ -52,7 +55,7 @@
     <a href="https://github.com/felipecastrosales/Chat">Chat Online 🗣</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Chat/raw/master/demos/chat_demo1.gif" width="250px" alt="Chat Online 🗣">
+   <img src="https://github.com/felipecastrosales/Chat/raw/master/demos/chat_demo1.gif" width="300px" alt="Chat Online 🗣">
 </p>
 
 ---
@@ -61,7 +64,7 @@
     <a href="https://github.com/felipecastrosales/Contacts">Agenda de Contatos 📞</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Contacts/blob/master/assets/demos/contactsdemo1.gif" width="250px" alt="">
+   <img src="https://github.com/felipecastrosales/Contacts/blob/master/assets/demos/contactsdemo1.gif" width="300px" alt="Agenda de Contatos">
 </p>
 
 ---
@@ -70,7 +73,7 @@
     <a href="https://github.com/felipecastrosales/Gif-Finder">Buscador de GIFs 🔍</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Gif-Finder/raw/master/demos/demo_1.gif" width="250px" alt="Buscador de GIFs">
+   <img src="https://github.com/felipecastrosales/Gif-Finder/raw/master/demos/demo_1.gif" width="300px" alt="Buscador de GIFs">
 </p>
 
 ---
@@ -79,7 +82,7 @@
     <a href="https://github.com/felipecastrosales/ToDo">Lista de Tarefas 📋</a>
 </h2>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/59374587/92949028-c2153a00-f430-11ea-958a-1af0b7463fcc.gif" width="250px" alt="Lista de Tarefas">
+   <img src="https://user-images.githubusercontent.com/59374587/92949028-c2153a00-f430-11ea-958a-1af0b7463fcc.gif" width="300px" alt="Lista de Tarefas">
 </p>
 
 ---
@@ -88,7 +91,7 @@
     <a href="https://github.com/felipecastrosales/Currency-Converter">Conversor de Moedas 💰💱</a>
 </h2>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/59374587/92736464-b0f4fc00-f350-11ea-8da2-902b79475772.gif" width="250px" alt="Conversor de Moedas">
+   <img src="https://user-images.githubusercontent.com/59374587/92736464-b0f4fc00-f350-11ea-8da2-902b79475772.gif" width="300px" alt="Conversor de Moedas">
 </p>
 
 ---
@@ -97,7 +100,7 @@
     <a href="https://github.com/felipecastrosales/CalculatorBMI">Calculadora IMC ⚖</a>
 </h2>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/59374587/92509368-884df480-f1e0-11ea-8649-cab4daca028d.png" width="250px" alt="Calculadora IMC">
+   <img src="https://user-images.githubusercontent.com/59374587/92509368-884df480-f1e0-11ea-8649-cab4daca028d.png" width="300px" alt="Calculadora IMC">
 </p>
 
 ---
@@ -106,7 +109,7 @@
     <a href="https://github.com/felipecastrosales/Counter">Contador de Pessoas 🚶‍♂️</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Counter/raw/master/assets/images/demo/CounterAppDemo1.gif" width="250px" alt="Contador de Pessoas">
+   <img src="https://github.com/felipecastrosales/Counter/raw/master/assets/images/demo/CounterAppDemo1.gif" width="400px" alt="Contador de Pessoas">
 </p>
 
 ---
@@ -115,7 +118,7 @@
 
    <p>
 
--  Ainda há 6 aplicativos em desenvolviemento! 😀<br><br>
+- Aqui está a lista de alguns aprendizados que obtive nos aplicativos que desenvolvi durante o curso:<br><br>
    
 - App #10 - Favoritos do YouTube (BLoC Pattern):
     - BLoC Pattern,
@@ -133,7 +136,6 @@
     - Importação das Animações no App,
     - SplashScreen,
     - Entre outros...
-
 
 ---
 
@@ -247,9 +249,40 @@
 
 ---
 
-<h2 align="center">Functionalities 🛠️</h2>
+<h2 align="center">Algumas Funcionalidades 🛠️</h2>
 
-- Em desenvolvimento 🚧
+- Contador de Pessoas:<br>
+    Esse aplicativo irá te ajudar a fazer a contagem da quantidade de pessoas que há em um determinado local.
+
+- Calculadora de IMC:<br>
+    Essa Calculadora serve para você calcular seu IMC (Índice de Massa Corporal), e irá lhe ajudar a calculá-lo de forma rápida e prática com apenas um clique!
+
+- Conversor de Moedas:<br>
+    Esse Conversor de Moedas irá ajudar você a consultar os valores de
+
+- Conversor de Moedas:<br>
+    Esse Conversor de Moedas irá ajudar você a converter moedas da forma mais rápida e instântanea possível, você pode consultar os valores do real, dólar, euro, libra e bitcoin.
+
+- Lista de Tarefas:<br>
+    Esse lista de tarefas irá ajudar a você a ter uma, você pode também exluir e ordená-las de acordo com que as que não forem concluídas fiquem no topo, para você ter uma produtividade e eficiência maior.
+
+- Buscador de GIFs:<br>
+    Feito para buscar gifs, esse aplicativo também te dá a possibilidade de compartilhar e ver os gifs que estão na tendência.
+
+- Agenda de Contatos:<br>
+    Você pode criar novos contatos, ordená-los, editá-los e excluir contatos. Também pode adicionar e-mail e uma foto, ordenar de A-Z ou Z-A, e também ligar para o contato que você salvou.
+
+- Chat Online - Firebase:<br>
+    Com esse Chat, você pode pode trocar mensagens e fotos com os usuários usando a sua conta do google por meio do Firebase.
+
+- Loja Virtual:<br>
+    Com essa incrível demonstração de Loja Virtual, você têm inúmeras possibilidades, como criar conta, ver produtos da loja, realizar compras, ver o status do pedido... entre outras várias e várias possibilidades.
+
+- Flare:<br>
+    Um pequeno teste com Flare (hoje chamado de Rive), essa ferramenta te disponibiliza criar animações incríveis em 2D.
+
+- Favoritos do YouTube (BLoC Pattern):<br>
+    Você pode adicionar e remover vídeos do YouTube a sua lista de favoritos com esse aplicativo, com possibilidade de dar um player nos mesmos.
   
    </p>
 
