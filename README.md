@@ -26,7 +26,7 @@
 <p align="center">
    
    > * Em desenvolvimento!
-   
+
 </p>
 
 ---
@@ -55,7 +55,7 @@
     <a href="https://github.com/felipecastrosales/Chat">Chat Online 🗣</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Chat/raw/master/demos/chat_demo1.gif" width="300px" alt="Chat Online 🗣">
+   <img src="https://github.com/felipecastrosales/Chat/raw/master/demos/chat_demo1.gif" width="300px" alt="Chat Online">
 </p>
 
 ---
