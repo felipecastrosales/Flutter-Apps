@@ -306,7 +306,7 @@
     Você pode adicionar e remover vídeos do YouTube a sua lista de favoritos com esse aplicativo, com possibilidade de dar um player nos mesmos.
 
 - Animações Complexas:<br>
-    - Com este aplicativo, você pode pegar como base para fazer incríveis animações em seus apps, melhorando a UI (Interace do Usuário) e principalmente a UX (Experiência do Usuário), com lindas transições de telas, aparecimento do componentes, e incríveis efeitos, para você implementar em seus apps.
+    Com este aplicativo, você pode pegar como base para fazer incríveis animações em seus apps, melhorando a UI (Interace do Usuário) e principalmente a UX (Experiência do Usuário), com lindas transições de telas, aparecimento do componentes, e incríveis efeitos, para você implementar em seus apps.
   
    </p>
 
