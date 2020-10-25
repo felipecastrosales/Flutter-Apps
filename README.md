@@ -21,6 +21,15 @@
    > * Alguns ainda estão em desenvolvimento!
 
 <h2 align="center">
+    <a href="https://github.com/felipecastrosales/YouFlutterTube">Animações Complexas</a>
+</h2>
+<p align="center">
+   
+   > * Em desenvolvimento!
+
+</p>
+
+<h2 align="center">
     <a href="https://github.com/felipecastrosales/YouFlutterTube">Favoritos do YouTube (BLoC Pattern) 🌟</a>
 </h2>
 <p align="center">
@@ -64,7 +73,7 @@
     <a href="https://github.com/felipecastrosales/Contacts">Agenda de Contatos 📞</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Contacts/blob/master/assets/demos/contactsdemo1.gif" width="300px" alt="Agenda de Contatos">
+   <img src="https://github.com/felipecastrosales/Contacts/raw/master/assets/demos/contactsdemo1.gif" width="300px" alt="Agenda de Contatos">
 </p>
 
 ---
@@ -109,7 +118,7 @@
     <a href="https://github.com/felipecastrosales/Counter">Contador de Pessoas 🚶‍♂️</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Counter/raw/master/assets/images/demo/CounterAppDemo1.gif" width="400px" alt="Contador de Pessoas">
+   <img src="https://github.com/felipecastrosales/Counter/raw/master/assets/images/demo/CounterAppDemo1.gif" width="300px" alt="Contador de Pessoas">
 </p>
 
 ---
@@ -119,6 +128,18 @@
    <p>
 
 - Aqui está a lista de alguns aprendizados que obtive nos aplicativos que desenvolvi durante o curso:<br><br>
+
+- App #11 - Animações Complexas:
+    - Animation,
+    - AnimationController,
+    - AnimatedBuilder,
+    - CurvedAnimation,
+    - Curves,
+    - Interval,
+    - Tween,
+    - ColorTween,
+    - EdgeInsetsTween,
+    - IgnorePointer.
    
 - App #10 - Favoritos do YouTube (BLoC Pattern):
     - BLoC Pattern,
@@ -283,6 +304,9 @@
 
 - Favoritos do YouTube (BLoC Pattern):<br>
     Você pode adicionar e remover vídeos do YouTube a sua lista de favoritos com esse aplicativo, com possibilidade de dar um player nos mesmos.
+
+- Animações Complexas:
+    - Com este aplicativo, você pode pegar como base para fazer incríveis animações em seus apps, melhorando a UI (Interace do Usuário) e principalmente a UX (Experiência do Usuário), com lindas transições de telas, aparecimento do componentes, e incríveis efeitos, para você implementar em seus apps.
   
    </p>
 
@@ -306,7 +330,7 @@
 
    ---
 
-   > Esse projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, no curso **["Criação de Apps Android e iOS com Flutter - Crie 16 Apps"](https://www.udemy.com/course/curso-completo-flutter-app-android-ios)** na **[Udemy](https://www.udemy.com/)**.<br><br>
+   > Esse projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, com os materiais do curso **["Criação de Apps Android e iOS com Flutter - Crie 16 Apps"](https://www.udemy.com/course/curso-completo-flutter-app-android-ios)** na **[Udemy](https://www.udemy.com/)**.<br><br>
    Se isso te ajudou, dê uma ⭐, contribua, e assim você também irá me ajudar! 😉
 
 ---
