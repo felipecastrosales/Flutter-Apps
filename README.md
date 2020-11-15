@@ -20,14 +20,27 @@
 
    > * Alguns ainda estão em desenvolvimento!
 
+---
+   
+<h2 align="center">
+    <a href="https://github.com/felipecastrosales/virtual-store-manager">App de Gerenciamento da Loja Online</a>
+</h2>
+<p align="center">
+      
+   > * Em desenvolvimento!
+   
+</p>
+
+---
+
 <h2 align="center">
     <a href="https://github.com/felipecastrosales/YouFlutterTube">Animações Complexas</a>
 </h2>
 <p align="center">
-   
-   > * Em desenvolvimento!
-
+   <img src="https://github.com/felipecastrosales/animations/raw/main/assets/images/demo/animationsdemo.gif" width="300px" alt="Animações Complexas">
 </p>
+
+---
 
 <h2 align="center">
     <a href="https://github.com/felipecastrosales/YouFlutterTube">Favoritos do YouTube (BLoC Pattern) 🌟</a>
@@ -44,7 +57,7 @@
     <a href="https://github.com/felipecastrosales/Flare-Test">Animações Vetoriais com Flare 😀</a>
 </h2>
 <p align="center">
-   <img src="https://github.com/felipecastrosales/Flare-Test/raw/master/demo/Flare_Demo.gif" width="300px" alt="Animações Vetoriais com Flare ">
+   <img src="https://github.com/felipecastrosales/Flare-Test/raw/master/demo/Flare_Demo.gif" width="300px" alt="Animações Vetoriais com Flare">
 </p>
 
 ---
@@ -54,9 +67,9 @@
 </h2>
 <p align="center">
 
-> * Em desenvolvimento!
+   > * Em desenvolvimento!
   
-</p>
+</p>,
 
 ---
 
@@ -127,7 +140,20 @@
 
    <p>
 
-- Aqui está a lista de alguns aprendizados que obtive nos aplicativos que desenvolvi durante o curso:<br><br>
+- Aqui está a lista de alguns aprendizados que obtive nos aplicativos que desenvolvi durante o curso:<br>
+
+- App #12 - Gerenciamento da Loja Virtual
+    - BottomNavigationBar,
+    - AutomaticKeepAlive,
+    - FormField,
+    - StreamTransform,
+    - CombineLatest,
+    - DocumentChanges,
+    - SpeedDial,
+    - ImagePicker (Câmera e Galeria)
+    - Entre outros...
+
+---
 
 - App #11 - Animações Complexas:
     - Animation,
@@ -139,7 +165,10 @@
     - Tween,
     - ColorTween,
     - EdgeInsetsTween,
-    - IgnorePointer.
+    - IgnorePointer,
+    - Entre outros...
+    
+---
    
 - App #10 - Favoritos do YouTube (BLoC Pattern):
     - BLoC Pattern,
@@ -307,6 +336,9 @@
 
 - Animações Complexas:<br>
     Com este aplicativo, você pode pegar como base para fazer incríveis animações em seus apps, melhorando a UI (Interace do Usuário) e principalmente a UX (Experiência do Usuário), com lindas transições de telas, aparecimento do componentes, e incríveis efeitos, para você implementar em seus apps.
+    
+- Gerenciamento da Loja Virtual:<br>
+   Este aplicativo será o administrador da Loja Virtal, onde você pode gerenciar a Loja, como, por exemplo ver os produtos (podendo criar e deletar), consultar os usuários (com suas informações de compra, email, e com possibilidade de pesquisar todos os usuários cadastrados), os pedidos, entre outras muitas coisas. 
   
    </p>
 
