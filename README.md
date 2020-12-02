@@ -21,6 +21,20 @@
    > * Alguns ainda estão em desenvolvimento!
 
 ---
+
+<h2 align="center">
+    <a href="https://github.com/felipecastrosales/todo-mobx">Gerência de Estado com MobX</a>
+</h2>
+<p align="center"> 
+   > * Em desenvolvimento!
+</p>
+
+<h2 align="center">
+    <a href="https://github.com/felipecastrosales/floating-button">Integração com Código Android Nativo Android</a>
+</h2>
+<p align="center">
+   > * Em desenvolvimento! 
+</p>
    
 <h2 align="center">
     <a href="https://github.com/felipecastrosales/virtual-store-manager">App de Gerenciamento da Loja Online</a>
@@ -66,10 +80,8 @@
     <a href="https://github.com/felipecastrosales/Virtual-Store">Loja Virtual 🛒</a>
 </h2>
 <p align="center">
-
-   > * Em desenvolvimento!
-  
-</p>,
+   <img src="https://github.com/felipecastrosales/Virtual-Store/raw/master/assets/demos/virtualstoredemo.gif" width="300px" alt="Loja Virtual">
+</p>
 
 ---
 
