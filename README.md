@@ -26,14 +26,18 @@
     <a href="https://github.com/felipecastrosales/todo-mobx">Gerência de Estado com MobX</a>
 </h2>
 <p align="center"> 
+      
    > * Em desenvolvimento!
+   
 </p>
 
 <h2 align="center">
     <a href="https://github.com/felipecastrosales/floating-button">Integração com Código Android Nativo Android</a>
 </h2>
 <p align="center">
+      
    > * Em desenvolvimento! 
+   
 </p>
    
 <h2 align="center">
