@@ -23,6 +23,15 @@
 ---
 
 <h2 align="center">
+    <a href="https://github.com/felipecastrosales/xlo">XLO - Clone</a>
+</h2>
+<p align="center"> 
+      
+   > * Em desenvolvimento!
+   
+</p>
+
+<h2 align="center">
     <a href="https://github.com/felipecastrosales/todo-mobx">Gerência de Estado com MobX</a>
 </h2>
 <p align="center"> 
@@ -32,7 +41,7 @@
 </p>
 
 <h2 align="center">
-    <a href="https://github.com/felipecastrosales/floating-button">Integração com Código Android Nativo Android</a>
+    <a href="https://github.com/felipecastrosales/button">Integração com Código Android Nativo Android</a>
 </h2>
 <p align="center">
       
@@ -52,7 +61,7 @@
 ---
 
 <h2 align="center">
-    <a href="https://github.com/felipecastrosales/YouFlutterTube">Animações Complexas</a>
+    <a href="https://github.com/felipecastrosales/animations">Animações Complexas</a>
 </h2>
 <p align="center">
    <img src="https://github.com/felipecastrosales/animations/raw/main/assets/images/demo/animationsdemo.gif" width="300px" alt="Animações Complexas">
